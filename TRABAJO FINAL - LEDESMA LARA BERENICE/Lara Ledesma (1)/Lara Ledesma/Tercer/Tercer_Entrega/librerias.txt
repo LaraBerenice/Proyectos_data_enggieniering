@@ -1,0 +1,9 @@
+apache-airflow
+psycopg2-binary
+sqlalchemy-redshift
+pandas
+datetime
+configparser
+sqlalchemy
+requests
+docker

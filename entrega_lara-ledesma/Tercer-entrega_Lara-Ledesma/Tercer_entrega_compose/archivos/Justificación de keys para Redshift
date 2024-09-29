@@ -1,0 +1,16 @@
+
+  
+  " yo elegí la columna FechaConsulta como clave de ordenamiento y asigné
+  el estilo de distribución DISTSTYLE ALL por que concidero a las 
+  fechas en las consultas muy importantes y entiendo que una distribución completa de la tabla 
+  en todos los nodos beneficiará el rendimiento general de las consultas relacionadas con el tiempo,
+  tratandoce en este caso de una unica tabla pequeña.
+
+  mi decision tiene que ver con el objetivo de lograr un acceso ágil y eficiente
+  a todos los datos almacenados en la tabla"
+
+
+
+
+
+
